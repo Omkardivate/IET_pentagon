@@ -9,13 +9,13 @@ Vijay Sales is one of the biggest retailer of Technical Consumer Goods in India.
 
 ### Requirements
 
-1).Web aplication
-2).Secure Payment System
-3).Product Information Management
-4).Ordering System
-5).Shiping System
-6).Offers and Coupons
-7).Warehousing
+1).Web application<br>
+2).Secure Payment System<br>
+3).Product Information Management<br>
+4).Ordering System<br>
+5).Shiping System<br>
+6).Offers and Coupons<br>
+7).Warehousing<br>
 8).Shopping Cart
 
 
