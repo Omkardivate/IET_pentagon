@@ -1,21 +1,8 @@
-# IET_pentagon
-SDM repository
-Welcome to Iet CDAC,Pune
-Hi
-This is kranti!
+# IET_pentagon Team
 
-⋅⋅*This is aditya!
-
-This is Sujit
-
-This is Omkar
-
-This is Bhushan
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+- Team members <br>
+1) Sujit <br>
+2) Bhushan <br>
+3) Kranti <br>
+4) Aditya <br>
+5) Omkar <br>
