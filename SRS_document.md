@@ -7,7 +7,7 @@ System Requirement Specification Document.
 System Reqruiement Spefication for Online Exam System of Cdac
 
 ### Team:
-Student, Centre Co-ordinator, System Admin, Cdac Authority, Technical Assistant, Faculty, Director of center
+Student, Centre Co-ordinator, System Admin, Cdac Authority, Faculty, Director of center
 
 ### Objective (Purpose):
 The online exam for students is intended to provide knowledge assesment of students. This will also evaluate the performance of a student in an unbiased manner and test their competitiveness. This will be done through a single gateway using internet. 
