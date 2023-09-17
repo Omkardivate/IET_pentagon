@@ -20,3 +20,8 @@
 - As a CDAC Authority I want auto submission of the exam so that the exam is conducted in time.
 - As a student I want to restart my exam from same question if there is any technical issue so that my previously marked responses are restored.
 
+- As a director I want to view the graphical representation so that i can visualize the performance of my center.
+- As a system admin I want to recieve the data about the number of logins in the system at a time so that I can manage the load on the system.
+- As a system admin I want to recieve an alert for security breaches so that i can maintain the safty of the system.
+- As a student I want a dashboard so that I can see the exams of various courses.
+- As a student I want a question pallete so that I can review the questions. 
