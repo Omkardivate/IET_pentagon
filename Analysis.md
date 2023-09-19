@@ -8,3 +8,6 @@ username, password, two-step verification, question, answer, otp
 
 - Revaluation :<br>
 questions,answers,response,score,exam code
+
+- Notification :<br>
+email_id,mobile no.
