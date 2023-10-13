@@ -1,4 +1,5 @@
 ## DRY - Don't Repeat Yourself
+//![DRY png](relative/path/in/repository/to/image.svg)
 ### Every piece of knowledge must have a single, unambiguous, authoritative representation within a system."
 
 DRY is about the duplication of knowledge, of intent. It’s about expressing the same thing in two different places, possibly in two totally different ways. <br>
